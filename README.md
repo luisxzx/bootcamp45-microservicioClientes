@@ -5,7 +5,6 @@ y colocar enable true a  pring.cloud.config.enabled=true
 
 
 
-
 --copiar lo de abajo y reemplazar por el application properties al descargar el repositorio 
 
 server.port=8080
